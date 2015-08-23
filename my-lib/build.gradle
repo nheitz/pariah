@@ -1,0 +1,6 @@
+dependencies {
+	compile group: 'commons-collections', name: 'commons-collections', version: '3.2'
+    compile 'org.clojure:clojure:1.7.0'
+    compile "org.clojars.ato:clojure-jsr223:1.5.1"
+    
+}
